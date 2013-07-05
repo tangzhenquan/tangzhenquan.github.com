@@ -5,15 +5,15 @@ permalink: /:categories/:year/:month/:day/:title
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 auto: true
 pygments: true
-
+markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
 title :tom blog 
 tagline:test 
-author :tom
-  name :tom 
-  email :tzz8488@yahoo.com.cn
+author :
+  name :zhenquan tang
+  email :tzz8488@aliyun.com
   github : tangzhenquan
   twitter : zq
   feedburner : zq
