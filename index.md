@@ -1,8 +1,7 @@
 ---
-layout:default 
+layout:page 
 title: 测试下主页!
 ---
-{% assign first_post = site.posts.first %}
 {% include JB/setup %}
 
 
