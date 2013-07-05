@@ -1,8 +1,8 @@
 ---
-layout: page
+layout:default 
 title: 测试下主页!
-tagline: 测试下tagline
 ---
+{% assign first_post = site.posts.first %}
 {% include JB/setup %}
 
 

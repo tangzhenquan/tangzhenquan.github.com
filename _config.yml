@@ -9,14 +9,11 @@ markdown: rdiscount
 # Themes are encouraged to use these universal variables 
 # so be sure to set them if your theme uses them.
 #
-title :tom blog 
-tagline:test 
+title :tangzhenquan'blog 
 author :
   name :zhenquan tang
   email :tzz8488@aliyun.com
-  github : tangzhenquan
-  twitter : zq
-  feedburner : zq
+  github :409044065@qq.com
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt 
