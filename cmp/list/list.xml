@@ -1,16 +1,16 @@
 <list>
 
-<m src="/list/xrtj/xrtj.xml" label="最新电影"/>
-<m list_src="list/dsjc/dsjc.xml" label="最新电视剧" />
-<m list_src="/list/gxxj/gxxj.xml" label="搞笑喜剧" />
-<m list_src="/list/jskb/jskb.xml" label="惊悚恐怖" />
-<m list_src="/list/zwdz/zwdz.xml" label="中外动作" />
-<m list_src="/list/sqkh/sqkh.xml" label="神奇科幻" />
-<m list_src="/list/gyjd/gyjd.xml" label="国语经典" />
-<m list_src="/list/ztdy/ztdy.xml" label="专题电影" />
-<m list_src="/list/ysxs/xshj.xml" label="有声小说" />
-<m list_src="/list/dmdh/dhdm.xml" label="动漫动画" />
-<m list_src="/list/wlrm/wlrm.xml" label="网络热门" />
-<m list_src="/list/dszb/wszb.xml" label="高清直播" />
-<m list_src="/list/dj/dj.xml" label="ＤＪ舞曲" />
+<m src="/cmp/list/xrtj/xrtj.xml" label="最新电影"/>
+<m list_src="/cmp/list/dsjc/dsjc.xml" label="最新电视剧" />
+<m list_src="/cmp/list/gxxj/gxxj.xml" label="搞笑喜剧" />
+<m list_src="/cmp/list/jskb/jskb.xml" label="惊悚恐怖" />
+<m list_src="/cmp/list/zwdz/zwdz.xml" label="中外动作" />
+<m list_src="/cmp/list/sqkh/sqkh.xml" label="神奇科幻" />
+<m list_src="/cmp/list/gyjd/gyjd.xml" label="国语经典" />
+<m list_src="/cmp/list/ztdy/ztdy.xml" label="专题电影" />
+<m list_src="/cmp/list/ysxs/xshj.xml" label="有声小说" />
+<m list_src="/cmp/list/dmdh/dhdm.xml" label="动漫动画" />
+<m list_src="/cmp/list/wlrm/wlrm.xml" label="网络热门" />
+<m list_src="/cmp/list/dszb/wszb.xml" label="高清直播" />
+<m list_src="/cmp/list/dj/dj.xml" label="ＤＪ舞曲" />
 </list>
