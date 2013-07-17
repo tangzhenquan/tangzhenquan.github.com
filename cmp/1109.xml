@@ -1,0 +1,33 @@
+<cmp 
+	name = "『YY1109』" 
+	link = "http://www.xuanday.com/" 
+	description = "YY1109影视%3Cfont color='#FFFFFF'>"
+	logo = "{src:logo.png,xywh:[10R,13,140,50]}"
+	logo_alpha = "0.9"
+	
+	skins = "skins/6042.zip"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/ads.swf,plugins/sohu.swf"
+	backgrounds = ""
+
+
+	announce_content ="%3CFONT%20size%3D'20'%3E%3Cb%3E%3Cfont%20color%3D'%23ff0000'%3E欢迎光临YY1109%3Cfont color='#FF00FF'>①%3Cfont color='#00FFFF'>≮看黄片加YY群4480294 看群公告≯%3Cfont color='#FF00FF'>②%3Cfont color='#7FFF00'>≮ 诚聘网络兼职，让你在看电影的同时还能赚一份工资，工资日结，有意的联系YY507531727应聘 淘宝店主 提高销量也可以 联系本人 ≯%3Cfont color='#FF00FF'>③%3Cfont color='#F0FFFF'>≮ 高清无码网站 www.2cjk.com  ≯%3Cfont color='#FF00FF'>④%3Cfont color='#EEEE00'>≮广告位招商中   ≯%3Cfont color='#FF00FF'>⑤%3Cfont color='#FFB90F'>≮ 广告位招商中 ≯%3Cfont color='#FF00FF'>⑥%3Cfont color='#00FFFF'>≮ 广告位招商中 ≯%3Cfont color='#FF00FF'>%3Cfont color='#FF00FF'>⑦%3Cfont color='#00FFFF'>≮ 全频黄金滚动广告位联系YY:216679353,更好的帮您推广您的网站和商品,适合淘宝卖家、传奇私服等等 ≯"
+	announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+	youku_handler="http://www.yy6864.com/cmp/tools/yo.php?id="
+	proxy = "http://proxy.player.yy6080.org/"
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>

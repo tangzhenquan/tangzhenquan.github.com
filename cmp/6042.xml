@@ -1,0 +1,38 @@
+<cmp 
+	name = "『YY6042-玄天影视』" 
+	link = "http://www.56y4.com/" 
+	description = "%3Cfont color='#FFFFFF'>①热招淘宝兼职，工资日结50-300加YY573372305,QQ747436633%3C%2Ffont%3E%3Cfont color='#7FFF00'>②看完电影去ＩＤ２３４９９网络电玩美女陪玩指导%3C%2Ffont%3E%3Cfont color='#FF0000'>③ＩＤ５１０１２０美女送真钱电玩棋牌,注册送现金,日赚８００%3C%2Ffont%3E"
+	logo = "{src:images/logo-6042.png,xywh:[10R,13,140,50]}"
+	logo_alpha = "0.9"
+	
+	skins = "skins/6042.zip"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/ads.swf,plugins/sohu.swf"
+	backgrounds = ""
+	ads ="{src:images/ad-6042.jpg,link:http://www.56y4.com,link_target:_blank,width:620,height:410,duration:20,onstate:paused,target:video}"
+
+	announce_content ="%3CFONT%20size%3D'20'%3E%3Cb%3E%3Cfont%20color%3D'%23ff0000'%3E欢迎光临玄天影视 %3Cfont color='#FF00FF'>①%3Cfont color='#00FFFF'>≮YY网络兼职平台：无需本金，工资日结，咨询将YY昵称改成 四组慕雨邀请XX（务必），进频道23208（牢记）了解。客服YY 125760367≯%3Cfont color='#FF00FF'>②%3Cfont color='#7FFF00'>≮ 日赚60-80元.淘宝兼职刷信誉,进YY频道75253.YY名字改成:九组雨无声推荐,不改名字没人接待.商家红包付款,咨询QQ402081922或YY642731919 ≯%3Cfont color='#FF00FF'>③%3Cfont color='#F0FFFF'>≮ 广告位招商中 ≯%3Cfont color='#FF00FF'>④%3Cfont color='#EEEE00'>≮ YY网络兼职平台：工资日结，日赚150--400，YY昵称 改成【9组阳爷邀请】(不改名不接待)，进入频道2029，联系YY 502552047  QQ 850014490≯%3Cfont color='#FF00FF'>⑤%3Cfont color='#FFB9'>≮ 诚聘淘宝刷手.日赚RMB 70以上,工资日结进歪歪频道2040 歪歪昵称改为24团苏旅邀请，详情加QQ329545271 歪歪94642902 ≯%3Cfont color='#FF00FF'>⑥%3Cfont color='#00FFFF'>≮ 广告位招商中 ≯%3Cfont color='#FF00FF'>⑦%3Cfont color='#00FFFF'>≮ 喜欢玩彩票.时时彩的朋友.你想日赚100-1000元吗？ 赶快联系QQ：616655552 ≯%3Cfont color='#FF00FF'>⑧%3Cfont color='#00FFFF'>≮ 全频黄金滚动广告位联系YY:216679353,更好的帮您推广您的网站和商品,适合淘宝卖家、传奇私服等等 ≯%3Cfont color='#FF00FF'>⑨%3Cfont color='#00FFFF'>≮ 诚招淘宝刷信誉兼职，工资日结，日收入30-150元，昵称改为（10团细郑推荐+你的名字）进2040频道 咨询【YY 612023395 QQ 2696960072】 ≯"
+
+      
+
+	announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+        youku_handler="http://www.yy6864.com/cmp/tools/yo.php?id="
+	proxy = "http://proxy.player.yy6080.org/"
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+
+
+	
+	counter = ""
+/>

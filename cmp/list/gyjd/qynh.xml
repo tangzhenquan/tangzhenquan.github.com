@@ -1,0 +1,32 @@
+<cmp 
+	name = "『YY6042-玄天影视』" 
+	link = "http://www.56y4.com/" 
+	description = "①看完电影去玩网络电玩ＹＹ：４０１７美女陪玩%3Cfont color='#FFFFFF'>②招聘兼职，工资日结50-150元无需垫付一分钱多劳多得YY昵称改：⑥组轨迹推荐 联系QQ729007461或YY185389523%3Cfont color='#FFFFFF'>③热招淘宝兼职，工资日结50-300，多劳多得，时间自由，YY昵称改成一组子凉推荐加YY号:511526204,QQ:871134229%3Cfont color='#FFFFFF'>"
+	logo = "{src:logo.png,xywh:[10R,13,130,50]}"
+	logo_alpha = "0.9"
+	
+	skins = "skins/6042.zip"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/ads.swf,plugins/sohu.swf"
+	backgrounds = ""
+	ads ="{src:ad.jpg,link:http://www.56y4.com,link_target:_blank,width:620,height:410,duration:20,onstate:paused,target:video}"
+
+	announce_content ="%3CFONT%20size%3D'20'%3E%3Cb%3E%3Cfont%20color%3D'%23ff0000'%3E欢迎光临玄天影视 %3Cfont color='#FF00FF'>①%3Cfont color='#00FFFF'>≮ 招聘淘宝兼职：想在闲余时间赚钱吗？想兼职的朋友请将YY昵称改成“九组谈情邀请”改昵称有人接待，不改会踢出频道，再进YY频道：59004咨询 ≯%3Cfont color='#FF00FF'>②%3Cfont color='#7FFF00'>≮ 想在电脑变为你的收银行吗？《诚聘网络兼职》日赚80以上，工资日结，有网购经验者优先，真心想做可联系ＹＹ：180844160 ≯%3Cfont color='#FF00FF'>③%3Cfont color='#F0FFFF'>≮ 急招淘宝兼职：有网购经验 时间自由 日赚30-200 工资日结 卖家有需要也可以联系  有意者联系YY：438168545 QQ：2648835709 ≯%3Cfont color='#FF00FF'>④%3Cfont color='#EEEE00'>≮ 招淘宝兼职，工资30-80 工资日结，多劳多得，时间自由。有意者把昵称改成 外宣部推荐XX 进入频道ID23208 进入后就自然有人接待你的 或是联系YY261337699 ≯%3Cfont color='#FF00FF'>⑤%3Cfont color='#FFB90F'>≮ 甜甜直播间！ YYID：419501 ，每晚6点与您相约，美女现场直播，点下直播时通知， 全频绿马，将有不一样的直播间体验！≯%3Cfont color='#FF00FF'>⑥%3Cfont color='#00FFFF'>≮ 歪歪网络兼职，工作简单，时间不限；改马甲格式为外宣部推荐，进频道546924，有人接待。 ≯%3Cfont color='#FF00FF'>%3Cfont color='#FF00FF'>⑦%3Cfont color='#00FFFF'>≮ 玩网络电玩到ＹＹ频道２８７７００，玩网络电玩只到ＹＹ频道２８７７００。ＹＹ频道２８７７００美女教你玩，注册就送分，赢了可退现≯%3Cfont color='#FF00FF'>⑧%3Cfont color='#00FFFF'>≮ 277583招聘网络兼职，入会门槛最低。相信比怀疑多一次机会，行动比犹豫多一份成功.详询YY频道277583。YY昵称改成《沟沟推荐》。不改没人接待哦 ≯"
+	announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>

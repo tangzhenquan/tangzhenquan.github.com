@@ -1,0 +1,47 @@
+<!--
+温馨提醒：
+
+本列表由玄天影视YY6042（玄天，拾月）出品
+
+-->
+<list>
+<m  label="湖南卫视直播1号线路 ">
+<m  label="湖南卫视" rtmp="rtmp://112.231.23.27:554/live/" src="hnws" />
+<m  rtmp="rtmp://220.181.117.167/live/" src="hunan" label="湖南卫视" />
+<m src="http://live.64ma.com/livePlay.asp?imgoId=7"  label="湖南卫视" />
+<m  src="http://218.202.219.67/channels/xjyx/HuNan-HD-Suma/flv:300k_flv" label="湖南卫视" />
+	<m type="" src="http://cmp.e1951.com/iptv/tstv.php?uid=671" bak="mms://officetv.bupt.edu.cn/HNWS" label="湖南卫视"/>
+	<m type="2" src="hnws" rtmp="rtmp://112.231.23.27:554/live" label="湖南卫视"/>
+	<m src="tv10" rtmp="rtmp://122.192.35.80:554/live/" label="江苏联通"/>
+	<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7&amp;cid=770357757355584732" label="芒果线路"/>
+	<m  rtmp="rtmp://202.102.79.114:1935/live/" src="tv10" label="湖南卫视"/>
+	<m  src="http://218.202.219.67/channels/xjyx/HuNan-HD-Suma/flv:300k_flv" label="湖南卫视" />
+	<m  label="湖南卫视" rtmp="rtmp://112.231.23.27:554/live/" src="hnws" />
+</m>
+
+<m  label="湖南卫视直播2号线路 ">
+
+<m rtmp="rtmp://220.181.153.91/live/" src="hunan" label="湖南卫视letv直播"/>
+<m type="" src="http://cmp.e1951.com/iptv/tstv.php?uid=671" bak="mms://officetv.bupt.edu.cn/HNWS" label="湖南卫视"/>
+<m type="2" src="hnws" rtmp="rtmp://112.231.23.27:554/live" label="湖南卫视"/>
+</m>
+<m label="湖南卫视直播">
+    <m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=43" bak="http://cmp.e1951.com/tv/iptv/imgo.php?pid=46" label="湖南卫视[高清]" />
+  <m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=43" label="[推荐]普清双线"/>
+  <m label="新疆直播线路" src="http://218.202.219.67/channels/xjyx/HuNan-HD-Suma/flv:300k_flv" type="2" />
+  
+</m>
+  <m label="电信专线">
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7" label="[高清]南方电信"/>
+    <m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7" label="[高清]南方电信"/>
+    <m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7&amp;s=2" label="[高清]北方电信"/>
+    <m src="hunan" rtmp="rtmp://live122.cnlive.com:1935/live/" label="[普清]北京电信2"/>
+    <m src="tv10" rtmp="rtmp://202.102.79.114:554/live/" label="[低清]江苏电信"/>
+  </m>
+  <m label="联通专线">
+    <m type="2" src="http://116.213.146.71:554/45" label="[超清]北京联通"/>
+    <m type="2" src="http://122.192.35.96:554/136" label="[超清]江苏联通"/>
+    <m src="tv10" rtmp="rtmp://122.192.35.80:554/live/" label="[低清]江苏联通"/>
+  </m>
+
+</list>

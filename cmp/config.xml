@@ -1,0 +1,31 @@
+<cmp 
+	name = "电影" 
+	description = "电影"
+	logo = ""
+	logo_alpha = "0.9"
+	
+	skins = "skins/6042.zip"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/sohu.swf"
+	backgrounds = ""
+        ads =""
+	announce_content ="。。。"
+        announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+        youku_handler="http://www.yy6864.com/cmp/tools/yo.php?id="
+	proxy = "http://proxy.player.yy6080.org/"
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>

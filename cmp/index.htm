@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<title>玄天影视</title>
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="content-type" content="text/html; charset=utf-8" />
+<style type="text/css">
+html, body {width:100%;height:100%; margin:0; padding:0; text-align:center; }
+.color1{color:#ffffff;font-size:14px;}
+#top{height:43px;line-height:28px;padding:0 0 0 5px;background:url(images/navbg.gif) repeat-x 0 -1px;position:relative;}
+
+</style>
+<script type="text/javascript" src="cmp.js"></script>
+
+</head>
+<body>
+
+
+
+
+<div id="player" style="width:100%;height:100%;"></div>
+<div id="manage"></div>  
+<script>
+
+var flashvars = { url : "config.xml",
+lists : "list/list.xml"}
+
+var cmp_url = "cmp_local.swf";
+var htm = CMP.create("cmp", "100%", "100%", cmp_url, flashvars);
+
+document.getElementById("player").innerHTML = htm;
+
+
+
+</script>
+
+
+</body>
+</html>

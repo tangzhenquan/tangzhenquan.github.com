@@ -1,0 +1,20 @@
+<list>
+<m label="四川卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=27" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50642" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2453801339.flv" label="腾讯"/>
+</m>
+<m label="东方卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=3" label="搜狐" />
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=33" label="新浪" />
+<m rtmp="rtmp://202.102.79.114:554/live/" src="tv11" label="江苏电信" />
+<m rtmp="rtmp://122.192.35.80:554/live/" src="tv11" label="江苏联通" />
+</m>
+<m label="浙江卫视">
+<m type="2" src="http://r1.cztv.com/channels/101/500.flv/live" label="浙江" />
+<m rtmp="rtmp://202.102.79.114:554/live/" src="tv18" label="江苏电信" />
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1975434150" label="浙江卫视[高清]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2907109968" label="浙江卫视"/>
+</m>
+
+</list>

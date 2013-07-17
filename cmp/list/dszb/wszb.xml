@@ -1,0 +1,156 @@
+<list>
+ 
+<m label="浙江卫视">
+<m type="2" src="http://r1.cztv.com/channels/101/500.flv/live" label="浙江" />
+<m rtmp="rtmp://202.102.79.114:554/live/" src="tv18" label="江苏电信" />
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1975434150" label="浙江卫视[高清]"/>
+<m type="2" src="http://zb.v.qq.com:1863/?progid=2907109968" label="浙江卫视"/>
+</m>
+<m label="湖南卫视">
+<m label="普清">
+  <m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=131"  label="湖南卫视" />
+  <m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7"  label="芒果电信" />
+  <m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=43" bak="http://cmp.e1951.com/tv/iptv/imgo.php?pid=46" label="湖南卫视[高清]" />
+  <m label="新疆直播线路" src="http://218.202.219.67/channels/xjyx/HuNan-HD-Suma/flv:300k_flv" type="2" />
+</m>
+<m label="电信专线">
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=7" label="[高清]南方电信"/>
+<m src="tv10" rtmp="rtmp://202.102.79.114:554/live/" label="[低清]江苏电信"/>
+</m>
+<m label="联通专线">
+<m type="2" src="http://116.213.146.71:554/45" label="[超清]北京联通"/>
+<m type="2" src="http://122.192.35.96:554/136" label="[超清]江苏联通"/>
+<m src="tv10" rtmp="rtmp://122.192.35.80:554/live/" label="[低清]江苏联通"/>
+</m>
+</m>
+<m label="东方卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=3" label="搜狐" />
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=33" label="新浪" />
+<m rtmp="rtmp://202.102.79.114:554/live/" src="tv11" label="江苏电信" />
+<m rtmp="rtmp://122.192.35.80:554/live/" src="tv11" label="江苏联通" />
+</m>
+<m label="江苏卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=51&rn=b3abNihNibFHbbZIeZ3S" label="江苏卫视(搜狐)"/>
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=45" label="江苏卫视(新浪)"/>
+<m type="2" src="http://qqlive.dnion.com:1863/2674956498.flv" label="宽屏双线"/>
+<m type="2" src="http://qqlive.dnion.com:1863/1258215255.flv" label="北京电信"/>
+</m>
+<m label="天津卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=15" label="搜狐" />
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=57" label="新浪" />
+</m>
+<m label="黑龙江卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=59" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=41" label="新浪" />
+</m>
+<m label="山东卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=14" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=52" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/3660187036.flv" label="腾讯"/>
+</m>
+<m label="安徽卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=13" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=198" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/623043810.flv" label="腾讯"/>
+</m>
+<m label="北京卫视">
+<m type="2" src="http://qqlive.dnion.com:1863/1039787969.flv" label="宽屏双线"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=36" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=1" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2414742998.flv" label="腾讯"/>
+</m>
+<m label="辽宁卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=10" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=47" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/3006271240.flv" label="腾讯"/>
+</m>
+<m label="江西卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=18" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=46" label="新浪" />
+</m>
+<m label="四川卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=27" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50642" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2453801339.flv" label="腾讯"/>
+</m>
+<m label="河南卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=19" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50638" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/4172356212.flv" label="腾讯"/>
+</m>
+<m label="广东卫视">
+<m type="2" src="http://qqlive.dnion.com:1863/857894899.flv" label="宽屏双线"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=60" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=36" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2084914015.flv" label="腾讯"/>
+</m>
+<m label="深圳卫视">
+<m type="2" src="http://qqlive.dnion.com:1863/2220552576.flv" label="宽屏双线"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=45" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=55" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2309309351.flv" label="腾讯"/>
+</m>
+<m label="湖北卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=22" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=42" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/1128831868.flv" label="腾讯"/>
+</m>
+<m label="东南卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=7" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=34" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/1000637964.flv" label="腾讯"/>
+</m>
+<m label="重庆卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=35" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=62" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2905421066.flv" label="腾讯"/>
+</m>
+<m label="贵州卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=32" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=38" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/3051487004.flv" label="腾讯"/>
+</m>
+<m label="河北卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=24" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=39" label="新浪" />
+</m>
+<m label="吉林卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=21" label="搜狐" />
+</m>
+<m label="山西卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=50" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=53" label="新浪" />
+</m>
+<m label="陕西卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=20" label="搜狐" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=54" label="新浪" />
+<m type="2" src="http://qqlive.dnion.com:1863/2739752321.flv" label="腾讯"/>
+</m>
+<m label="体育直播">
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50667" label="CCTV-5(新浪双线)"/>
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=51331" label="CCTV-高尔夫网球(新浪双线)"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=19" label="CCTV-高尔夫网球(芒果电信)"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=21" label="湖南-先锋乒羽(芒果电信)"/>
+<m type="2" src="http://live.64ma.com/livePlay.asp?imgoId=18" label="湖南-快乐垂钓(芒果电信)"/>
+<m type="2" src="http://qqlive.dnion.com:1863/403651632.flv" label="腾讯双线"/>
+</m>
+<m label="中央卫视">
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50661" label="中央卫视1套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50662" label="中央卫视2套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50663" label="中央卫视3套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50664" label="中央卫视4套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50667" label="中央卫视5套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50668" label="中央卫视6套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50669" label="中央卫视7套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50671" label="中央卫视9套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50672" label="中央卫视10套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50673" label="中央卫视11套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50674" label="中央卫视12套" />
+<m type="2" src="https://live.64ma.com/livePlay.asp?sinaId=50675" label="中央卫视13套" />
+</m>
+<m label="中国教育">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=30" label="中国教育1" />
+<m type="2" src="http://live.64ma.com/livePlay.asp?sohuId=29" label="中国教育3" />
+</m>
+
+</list>

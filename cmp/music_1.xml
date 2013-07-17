@@ -1,0 +1,26 @@
+<cmp 
+	name = "『玄天影视』" 
+	link = "http://www.56y4.com/" 
+	description = "56影视官方网站WWW.56Y4.COM 合作YY影视频道6042 YY.com/6042"
+	
+	skins = "skins/music.swf"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/ads.swf,plugins/sohu.swf"
+	backgrounds = ""
+	ads ="{src:ad.jpg,link:http://www.56y4.com,link_target:_blank,width:620,height:410,duration:20,onstate:paused,target:video}"
+
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>

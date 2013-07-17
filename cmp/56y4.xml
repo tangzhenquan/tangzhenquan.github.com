@@ -1,0 +1,32 @@
+<cmp 
+	name = "『玄天播放器』" 
+	link = "http://www.xuanday.com/" 
+	logo = "{src:images/logo-56y4.png,xywh:[10R,13,140,50]}"
+	logo_alpha = "0.9"
+	
+	skins = "skins/56y4.zip"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/ads.swf,plugins/sohu.swf"
+	backgrounds = ""
+	ads ="{src:images/ad-56y4.jpg,link:http://www.56y4.com,link_target:_blank,width:620,height:410,duration:5,onstate:paused,target:video}"
+
+	announce_content ="欢迎光临56影视，我们的永久网址为www.56y4.com.每天访问56影视-最新电影电视剧首发网站，带来不一样的乐趣。如果您觉得本站不错，记得收藏本站并把本站记录在QQ签名上或告诉你的朋友一起来看哦！"
+	announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+    youku_handler="http://www.yy6864.com/cmp/tools/yo.php?id="
+
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>

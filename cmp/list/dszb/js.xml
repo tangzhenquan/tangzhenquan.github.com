@@ -1,0 +1,19 @@
+<list>
+<m opened="1" label="江苏卫视《 第22条婚规 》"> 
+
+<m  src="http://218.202.219.67/channels/xjyx/JiangSu-HD-Envivio/flv:300k_rtmp" label="江苏卫视" />
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=45" label="江苏卫视"/>
+<m  label="江苏卫视" rtmp="rtmp://112.231.23.27:554/live/" src="jsws" />
+<m  src="http://218.202.219.67/channels/xjyx/JiangSu-HD-Envivio/flv:300k_rtmp" label="江苏卫视" />
+</m>
+<m label="黑龙江卫视  今天19:30">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=41" label="黑龙江卫视"/>
+<m  src="http://218.202.219.67/channels/xjyx/HLJTV-Suma/flv:300k_flv" label="黑龙江卫视" />
+<m  src="http://218.202.219.67/channels/xjyx/HLJTV-Suma/flv:300k_flv" label="黑龙江卫视" />
+</m>
+<m label="山东卫视  今天19:33">
+<m src="http://123.125.86.36:1863/3660187036.flv?apptype=live&pla=WIN&time=1361527601&cdn=zijian&vkey=BF993ADA677C27A7F48C82D4F63219F792DF9DCBAF53CECC9EC5C13D5535BDF5C2CEB03B10215CB6" label="山东卫视腾讯高清"/>
+<m  label="山东卫视" rtmp="rtmp://112.231.23.27:554/live/" src="sdws" />
+<m  label="山东卫视03" rtmp="rtmp://112.231.23.27:554/live/" src="sdws" />
+</m>
+</list>

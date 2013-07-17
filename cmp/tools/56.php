@@ -1,0 +1,9 @@
+<?php
+if(!isset($_GET['t']))
+{
+	header("Location:http://www.56.com/flashApp/v_player_suixin.12.10.10.swf");
+	exit();
+	}
+$shortcode=$_GET['t'];
+header("Location:http://www.yy6864.com/".$shortcode);
+?>

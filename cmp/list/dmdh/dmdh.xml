@@ -1,0 +1,9 @@
+<list>
+<m src="http://g3.letv.com/10/38/68/2101337040.0.flv?start={start_bytes}" stream="true" label="点击+打开列表" />
+<m list_src="http://www.yy6864.com/cmp/list/dmdh/dm.xml" label="【动漫合集】"color="#ff0000, #00fff0" />
+<m list_src="http://www.yy6864.com/cmp/list/dmdh/kt.xml" label="【动漫剧场】"color="#ff0000, #00fff0" />
+<m list_src="http://www.yy6864.com/cmp/list/dmdh/gc.xml" label="【国产动漫】"color="#ff0000, #00fff0" />
+<m list_src="http://www.yy6864.com/cmp/list/dmdh/rq.xml" label="【经典动漫】"color="#ff0000, #00fff0" />
+<m list_src="http://www.yy6864.com/cmp/list/dmdh/gx.xml" label="【搞笑动漫】"color="#ff0000, #00fff0" />
+<m list_src="http://www.yy6864.com/cmp/list/dmdh/zx.xml" label="【最新动漫】"color="#ff0000, #00fff0" />
+</list>

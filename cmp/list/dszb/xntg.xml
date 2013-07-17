@@ -1,0 +1,20 @@
+<list>
+<m label="安徽卫视-今天19:30">
+<m type="2" src="http://livecdn.ahtv.cn/channels/1501/500.flv/live&.flv" label="安徽卫视频道" />
+<m  rtmp="rtmp://220.181.117.167/live/" src="anhui" label="安徽卫视" />
+<m  rtmp="rtmp://202.102.79.114:1935/live/" src="tv27" label="安徽卫视" bold="1" size="14"color="#006000, #642100" />
+<m  label="安徽卫视" rtmp="rtmp://112.231.23.27:554/live/" src="ahws" />
+</m>
+<m label="浙江卫视">
+<m type="2" src="http://r1.cztv.com/channels/101/500.flv/live&.flv" label="浙江卫视"/>
+<m rtmp="rtmp://202.102.79.114:554/live/" src="tv18" label="江苏电信" />
+<m type="2" src="http://zb.v.qq.com:1863/?progid=1975434150" label="浙江卫视[高清]"/>
+<m  src="http://218.202.219.67/channels/xjyx/ZheJiang-HD-Envivio/flv:300k_rtmp" label="浙江卫视" />
+<m type="2" src="http://v1.cztv.com/channels/101/500.flv/live" label="浙江卫视"/>
+<m  rtmp="rtmp://202.102.79.114:1935/live/" src="tv18" label="浙江卫视" bold="1" size="14"color="#006000, #642100" />
+</m>
+<m label="黑龙江卫视">
+<m type="2" src="http://live.64ma.com/livePlay.asp?sinaId=41" label="黑龙江卫视"/>
+<m  src="http://218.202.219.67/channels/xjyx/HLJTV-Suma/flv:300k_flv" label="黑龙江卫视" />
+</m>
+</list>

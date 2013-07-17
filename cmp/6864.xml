@@ -1,0 +1,33 @@
+<cmp 
+	name = "『YY6864-米夏影视』" 
+	link = "http://www.ku80s.com/" 
+	description = "热招淘宝兼职，工资日结100-500.真实可信.月赚6000以上加YY∶624644809,YY∶97753255详谈%3Cfont color='#FFFFFF'>"
+
+	logo_alpha = "0.9"
+	
+	skins = "skins/6042.zip"
+	plugins = "plugins/announce.swf,plugins/buffernext.swf,plugins/youku.swf,plugins/tudou.swf,plugins/qiyi.swf,plugins/ads.swf,plugins/sohu.swf"
+	backgrounds = ""
+
+
+	announce_content ="%3CFONT%20size%3D'20'%3E%3Cb%3E%3Cfont%20color%3D'%23ff0000'%3E欢迎光临YY6864 %3Cfont color='#FF00FF'>①%3Cfont color='#00FFFF'>≮米夏影视≯%3Cfont color='#FF00FF'>②%3Cfont color='#7FFF00'>≮广告招商中≯%3Cfont color='#FF00FF'>③%3Cfont color='#F0FFFF'>≮广告到期：招租中联系YY285989630≯%3Cfont color='#FF00FF'>④%3Cfont color='#EEEE00'>≮广告位招商中≯%3Cfont color='#FF00FF'>⑤%3Cfont color='#FFB90F'>≮ 广告位招商中 ≯%3Cfont color='#FF00FF'>⑥%3Cfont color='#00FFFF'>≮ 广告位招商中 ≯%3Cfont color='#FF00FF'>%3Cfont color='#FF00FF'>⑦%3Cfont color='#00FFFF'>≮ 全频黄金滚动广告位联系YY:285989630,更好的帮您推广您的网站和商品,适合淘宝卖家、传奇私服等等 ≯"
+	announce_xywh = "0,0,100P,20"
+	announce_speed = "2"
+	youku_handler="http://www.yy6864.com/cmp/tools/yo.php?id="
+	proxy = "http://proxy.player.yy6080.org/"
+	src_handler = "" 
+	lrc_handler = ""
+
+	volume = "1"
+	skin_id = "1"
+                play_mode = "0"
+	play_id = "1"
+	auto_play = "1"
+	list_delete="0" click_play="1"
+	
+	sound_sample = "true"
+	mixer_displace = "true"
+	mixer_filter = "true"
+	
+	counter = ""
+/>

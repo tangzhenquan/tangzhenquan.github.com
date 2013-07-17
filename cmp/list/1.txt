@@ -1,0 +1,70 @@
+<list>
+
+
+
+<m type="" rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd499" label="花花公子成人台" />
+
+
+<m type="2" src="http://2000.hqtube.com/a.flv?file=austin_prowler_sc_4_256k.flv&position=15026087" label="HQtube2000 直播台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd60" label="red On 韩国成人台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd62" label="pink tv 韩国成人台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd499" label="playboy2 韩国成人台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/" src="phd497" label="playboy1 韩国兔子成人台"/>
+
+
+<m rtmp="rtmp://lm02.everyon.tv:554/ptv/" src="phd499" label="playboy 韩国成人台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv/ptv/" src="phd499" label="playboy 韩国成人台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv/ptv/" src="pld59" label="JH TV 韩国成人台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd59" label="JH TV2 韩国成人台"/>
+<m type="2" rtmp="rtmp://lm01.everyon.tv:1935/ptv" src="phd231" label="韩国成人JBS台" />
+
+<m rtmp="rtmp://lm02.everyon.tv/ptv2/" src="pld501" label="韩国兔子 HD高清台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv/ptv/" src="phd61" label="韩国K TV梅花成人HD高清台"/>
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd64" label="韩国liveting TV成人台"/>
+<m type="2" rtmp="rtmp://37.59.32.102/iptv_cellcast_24/" src="livestream2" label="花花公子HD:欧美*CR1" />
+
+<m type="2" rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd499" label="花花公子成人台" />
+
+<m type="2" rtmp="rtmp://lm02.everyon.tv:1935/ptv2/" src="phd501" label="韩国成人1台" />
+<m type="2" src="http://video2.pornotube.com/839229/1711718.flv" label="USA bigtits成人视频"/>
+<m rtmp="rtmp://f0.d1.yatv.ru:1935/live/lovegu/" src="record_281760_23" label="rusian fed latex 俄罗斯成人台"/>
+<m rtmp="rtmp://f0.d1.yatv.ru:1935/live/lovegu/" src="record_281760_24" label="rusian fed latex2 俄罗斯成人台"/>
+<m type="2" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/" src="247.high.stream" label="未知成人台10" />
+<m type="2" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/" src="246.high.stream" label="未知成人台9" />
+<m type="2" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/" src="245.high.stream" label="未知成人台8" />
+
+<m type="2" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/_definst_/" src="246.low.stream" label="未知成人台2" />
+<m type="2" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="198.high.stream" label="未知成人台3" />
+<m type="2" rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="244.high.stream" label="未知成人台4" />
+<m type="2" rtmp="rtmp://kisstelevision.es.flash3.glb.ipercast.net/kisstelevision.es-live/" src="live" label="KISS性感音乐台" />
+
+
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd59" label="JGIRLHot成人台rtmp"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd60" label="REDON成人台rtmp"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd499" label="韩国playboy-TV"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/" src="phd497" label="花花公子Splce-TV"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv2/" src="phd501" label="韩国成人俱乐部"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd63" label="HD-movie成人台"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd62" label="PINK成人台"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd64" label="LiVETing成人台"/>
+<m rtmp="rtmp://lm02.everyon.tv:1935/ptv/" src="phd61" label="杏花成人台"/>
+<m rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="198.high.stream" label="欧美成人1（无码）"/>
+<m rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="244.high.stream" label="欧美成人2（无码）"/>
+<m rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="245.high.stream" label="欧美成人3（无码）"/>
+<m rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="246.high.stream" label="欧美成人4（无码）"/>
+<m rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="247.high.stream" label="欧美成人5（无码）"/>
+<m rtmp="rtmp://live190.la3.origin.filmon.com:1935/live/" src="73.high.stream" label="欧美成人Gay（无码）"/>
+
+
+
+
+</list>
